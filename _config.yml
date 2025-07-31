@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Honghao Pan"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Suzhou, China"
   employer         : "China University of Mining and Technology"
   uri              : # URL
@@ -34,13 +34,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=pQ9NAe0AAAAJ&hl=zh-CN&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-9600-2444"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Honghao-Pan-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
