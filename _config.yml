@@ -47,20 +47,20 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "panhh233"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : # Username
-  facebook         : # Username
+  facebook         : "Honghao Pan"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "panhh233"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -76,8 +76,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
-
+  zhihu            : "panhh"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
