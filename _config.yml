@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Honghao Pan"
+title                    : "panhh"
 title_separator          : "-"
 name                     : &name "panhh"
 description              : &description "Undergrad"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2628.JPG"
+  avatar           : "IMG_2628.png"
   name             : "Honghao Pan"
   pronouns         : "he/him"  
   bio              : # "Short biography for the left-hand sidebar"
